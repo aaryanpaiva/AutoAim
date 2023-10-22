@@ -54,6 +54,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-Aaryan Paiva
+###Aaryan Paiva
 
 Enjoy playing the Autoaim Game and defeating all your enemies!
