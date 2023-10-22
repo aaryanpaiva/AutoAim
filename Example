@@ -1,0 +1,32 @@
+## Input Data
+
+- The input file contains test cases, each consisting of:
+  - Field dimensions: R (number of rows), C (number of columns).
+  - Enemy statistics: N (number of enemies), S (shots per round), D (base damage), and H (damage reduction).
+  - Coordinates (X, Y) of each enemy on the grid.
+
+**Example Input:**
+5
+1 1 1 2 1 1
+0 1 0 0
+1 1 1 2 4 1
+0 5 0 0
+1 1 1 2 2 1
+0 4 0 0
+1 2 2 2 1 1
+0 5 0 0
+1 1 0 1
+2 1 2 2 5 1
+0 5 0 0
+1 4 1 0
+
+## Output Data
+
+- The output file provides the number of rounds (shots) required to clear the field for each test case.
+
+**Example Output:**
+Case #1: 1
+Case #2: 1
+Case #3: 1
+Case #4: 2
+Case #5: 4
